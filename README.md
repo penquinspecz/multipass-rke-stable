@@ -1,19 +1,8 @@
-
-
-~~~ Create RSA keys
-~~~~~~ install brew and appropriate packages: wget, etc
-
-
-
-
-
-
-
-
-
-
 # Rancher Kubernetes Engine and Rancher Cluster Manager (2.6.2 Stable) on Multipass VMs with rootless Docker
 ![rke-rancher-nginx.png](rke-rancher-nginx.png)
+
+- - - generate rsa keys
+- -----install brew and appropriate packages: wget etc
 
 ## Who should use this?
 
